@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/nordeim/Context7-AI-Agent/refs/heads/main/main_screen.png" alt="The Scent - Homepage" width="800"/>
+  </a>
+</p>
+
 <div align="center">
 
 # 🤖 Context7 AI Agent
