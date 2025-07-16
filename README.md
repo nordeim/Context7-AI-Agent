@@ -1,6 +1,6 @@
 <div align="center">
 
-# =� Context7 AI Agent
+# 🤖 Context7 AI Agent
 
 ### *Stunning Terminal AI with Pydantic AI & Context7 MCP Integration*
 
@@ -15,58 +15,58 @@
 
 </div>
 
-## ( Features
+## ✨ Features
 
-### <� **Current Features**
-- **> Advanced AI Agent** - Powered by Pydantic AI with OpenAI integration
- Context7 MCP Integration** - Intelligent document discovery via MCP protocol
-- **<� 4 Stunning Themes** - Cyberpunk, Ocean, Forest, Sunset with gradient effects
-- **=� Real-time Chat** - Interactive terminal interface with streaming responses
-- **=� Document Management** - Search, preview, bookmark, and organize documents
-- **=� Analytics Dashboard** - Usage statistics and conversation insights
-- **=� Session Persistence** - Save/resume conversations across sessions
-- **= Intent Detection** - Automatic document search based on chat context
-- **<� Rich TUI** - Beautiful terminal interface with animations and effects
+### 🎯 **Current Features**
+- **🧠 Advanced AI Agent** - Powered by Pydantic AI with OpenAI integration
+- **🔌 Context7 MCP Integration** - Intelligent document discovery via MCP protocol
+- **🎨 4 Stunning Themes** - Cyberpunk, Ocean, Forest, Sunset with gradient effects
+- **💬 Real-time Chat** - Interactive terminal interface with streaming responses
+- **📄 Document Management** - Search, preview, bookmark, and organize documents
+- **📊 Analytics Dashboard** - Usage statistics and conversation insights
+- **💾 Session Persistence** - Save/resume conversations across sessions
+- **🎯 Intent Detection** - Automatic document search based on chat context
+- **✨ Rich TUI** - Beautiful terminal interface with animations and effects
 
-### =� **Roadmap**
+### 🗺️ **Roadmap**
 
-#### =� **Immediate Goals** (Next 2-4 weeks)
-- [ ] **Voice Input Support** - Add speech-to-text for hands-free interaction
-- [ ] **Document Previews** - Rich document rendering with syntax highlighting
-- [ ] **Advanced Search Filters** - Date ranges, file types, content categories
-- [ ] **Export Formats** - PDF, Markdown, and HTML conversation exports
-- [ ] **Plugin System** - Allow custom MCP server integrations
-- [ ] **Docker Support** - Containerized deployment with Docker Compose
+#### 🎯 **Immediate Goals** (Next 2-4 weeks)
+- [ ] **🎤 Voice Input Support** - Add speech-to-text for hands-free interaction
+- [ ] **📋 Document Previews** - Rich document rendering with syntax highlighting
+- [ ] **🔍 Advanced Search Filters** - Date ranges, file types, content categories
+- [ ] **📤 Export Formats** - PDF, Markdown, and HTML conversation exports
+- [ ] **🔌 Plugin System** - Allow custom MCP server integrations
+- [ ] **🐳 Docker Support** - Containerized deployment with Docker Compose
 
-#### < **Long-term Vision** (3-6 months)
-- [ ] **Web Interface** - Browser-based UI alongside terminal
-- [ ] **Multi-user Support** - Collaborative sessions and shared workspaces
-- [ ] **Vector Database** - Pinecone/Chroma integration for semantic search
-- [ ] **API Server** - RESTful API for programmatic access
-- [ ] **Mobile App** - iOS/Android companion applications
-- [ ] **Enterprise Features** - SSO, audit logs, admin dashboard
-- [ ] **Multi-modal** - Image and audio document support
+#### 🔮 **Long-term Vision** (3-6 months)
+- [ ] **🌐 Web Interface** - Browser-based UI alongside terminal
+- [ ] **👥 Multi-user Support** - Collaborative sessions and shared workspaces
+- [ ] **🗄️ Vector Database** - Pinecone/Chroma integration for semantic search
+- [ ] **🔗 API Server** - RESTful API for programmatic access
+- [ ] **📱 Mobile App** - iOS/Android companion applications
+- [ ] **🏢 Enterprise Features** - SSO, audit logs, admin dashboard
+- [ ] **🎭 Multi-modal** - Image and audio document support
 
-## =� Codebase File Hierarchy
+## 📁 Codebase File Hierarchy
 
 ```
 context7-agent/
- =� src/                       # Core application code
-    >� agent.py               # Pydantic AI agent with MCP integration
-    =�  cli.py                # Rich terminal interface & commands
-    �  config.py              # Configuration management
-    =� history.py             # Conversation persistence & analytics
-    <� themes.py              # Visual themes & animations
-    =' utils.py               # Utility functions
- =� tests/                     # Test suite
- =� docs/                      # Documentation
- =� pyproject.toml            # Poetry configuration
- =� requirements.txt          # Dependencies
- =� README.md                 # This file
- =� .env.example              # Environment template
+├── 📁 src/                       # Core application code
+│   ├── 🧠 agent.py              # Pydantic AI agent with MCP integration
+│   ├── 💻 cli.py                # Rich terminal interface & commands
+│   ├── ⚙️  config.py            # Configuration management
+│   ├── 📚 history.py            # Conversation persistence & analytics
+│   ├── 🎨 themes.py             # Visual themes & animations
+│   └── 🔧 utils.py              # Utility functions
+├── 🧪 tests/                     # Test suite
+├── 📖 docs/                      # Documentation
+├── 📦 pyproject.toml            # Poetry configuration
+├── 📋 requirements.txt          # Dependencies
+├── 📄 README.md                 # This file
+└── 🔐 .env.example              # Environment template
 ```
 
-## = System Architecture Flow
+## 🏗️ System Architecture Flow
 
 ```mermaid
 flowchart TD
@@ -101,25 +101,25 @@ flowchart TD
     style M fill:#ff6600
 ```
 
-## =�File Descriptions
+## 📋 File Descriptions
 
 | File | Purpose | Key Features |
 |------|---------|--------------|
-| `src/agent.py` | >� AI Brain | Pydantic AI agent, MCP integration, intent detection |
-| `src/cli.py` | =� Terminal UI | Rich interface, 4 themes, command system |
-| `src/config.py` | � Configuration | Environment variables, MCP setup |
-| `src/history.py` | =� Persistence | Conversation storage, JSON serialization |
-| `src/themes.py` | <� Visual System | 4 themes, animations, gradient effects |
-| `src/utils.py` | =' Utilities | Helper functions and shared utilities |
+| `src/agent.py` | 🧠 AI Brain | Pydantic AI agent, MCP integration, intent detection |
+| `src/cli.py` | 💻 Terminal UI | Rich interface, 4 themes, command system |
+| `src/config.py` | ⚙️ Configuration | Environment variables, MCP setup |
+| `src/history.py` | 📚 Persistence | Conversation storage, JSON serialization |
+| `src/themes.py` | 🎨 Visual System | 4 themes, animations, gradient effects |
+| `src/utils.py` | 🔧 Utilities | Helper functions and shared utilities |
 
-## =� Deployment Guide
+## 🚀 Deployment Guide
 
-### =� Prerequisites
+### 📋 Prerequisites
 - **Python 3.12+** (required for Pydantic AI)
 - **Node.js 16+** (for Context7 MCP server)
 - **Poetry** (recommended) or **pip**
 
-### =' Local Development Setup
+### 💻 Local Development Setup
 
 #### 1. Clone Repository
 ```bash
@@ -165,7 +165,7 @@ npm install -g @upstash/context7-mcp@latest
 # Or use npx (auto-handled by agent)
 ```
 
-### =3 Docker Deployment
+### 🐳 Docker Deployment
 
 #### 1. Docker Compose Setup
 Create `docker-compose.yml`:
@@ -247,9 +247,9 @@ docker build -t context7-agent .
 docker run -it --env-file .env context7-agent
 ```
 
-## =d User Guide
+## 📖 User Guide
 
-### =� Getting Started
+### 🚀 Getting Started
 
 #### 1. Quick Start
 ```bash
@@ -266,13 +266,13 @@ When you first run Context7, you'll see:
 2. **Initialization** - MCP server connection and agent setup
 3. **Main Interface** - Ready to chat!
 
-### =� Basic Usage
+### 💬 Basic Usage
 
 #### Chat Mode
 ```
-=� Welcome to Context7 AI Agent!
+🤖 Welcome to Context7 AI Agent!
 You > Hello, can you help me understand quantum computing?
-> Context7 > [AI response with automatic document search...]
+Context7 > [AI response with automatic document search...]
 ```
 
 #### Available Commands
@@ -291,18 +291,17 @@ You > Hello, can you help me understand quantum computing?
 | `/session [name]` | Switch sessions | `/session work` |
 | `/quit` | Exit application | `/quit` |
 
-### <� Theme Showcase
+### 🎨 Theme Showcase
 
 #### Switch Themes
 ```bash
-/theme cyberpunk  # =. Futuristic neon
-/theme ocean      # <
- Calm blue tones
-/theme forest     # <2 Natural green
-/theme sunset     # < Warm orange
+/theme cyberpunk  # 🌃 Futuristic neon
+/theme ocean      # 🌊 Calm blue tones
+/theme forest     # 🌲 Natural green
+/theme sunset     # 🌅 Warm orange
 ```
 
- Document Discovery
+### 🔍 Document Discovery
 
 #### Automatic Search
 Context7 automatically searches for documents when you:
@@ -317,7 +316,7 @@ Context7 automatically searches for documents when you:
 /search quantum computing basics
 ```
 
-### =� Session Management
+### 💾 Session Management
 
 #### Save Current Session
 ```bash
@@ -336,7 +335,7 @@ Context7 automatically searches for documents when you:
 /export txt   # Plain text format
 ```
 
-### =� Analytics Dashboard
+### 📊 Analytics Dashboard
 View your usage patterns:
 - Total messages and searches
 - Average message length
@@ -344,7 +343,7 @@ View your usage patterns:
 - Bookmarked documents
 - Session statistics
 
-### <� Pro Tips
+### 💡 Pro Tips
 
 1. **Use Natural Language** - Ask questions naturally, Context7 will understand
 2. **Bookmark Important Docs** - Save useful documents with `/bookmark [id]`
@@ -352,7 +351,7 @@ View your usage patterns:
 4. **Session Management** - Use different sessions for different projects
 5. **Export Regularly** - Backup important conversations with `/export`
 
-### =� Troubleshooting
+### 🔧 Troubleshooting
 
 #### Common Issues
 
@@ -385,7 +384,7 @@ echo "OPENAI_API_KEY=your-key" >> .env
 - Use smaller model: `OPENAI_MODEL=gpt-3.5-turbo`
 - Clear conversation: `/clear`
 
-## > Contributing
+## 🤝 Contributing
 
 We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
 
@@ -398,18 +397,18 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 6. Push: `git push origin feature/amazing-feature`
 7. Open a Pull Request
 
-## =� License
+## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## =O Acknowledgments
+## 🙏 Acknowledgments
 
 - **Pydantic AI** - For the amazing AI framework
 - **Rich** - For the beautiful terminal interface
 - **Context7** - For the document discovery MCP server
 - **OpenAI** - For the powerful language models
 
-## =� Support
+## 💬 Support
 
 - **Issues**: [GitHub Issues](https://github.com/context7/context7-agent/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/context7/context7-agent/discussions)
@@ -419,9 +418,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with d by the Context7 Team**
+**Made with ❤️ by the Context7 Team**
 
 *Bringing intelligent document discovery to your terminal*
 
 </div>
-
